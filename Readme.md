@@ -10,6 +10,6 @@ Here i used transfer learning for traning the model. Here I used Resnet50v2 and 
 
 # second approach
 
-Here i trained two pre trained model namely Resnet50v2 and Resnet101v2 both has training accuracy of 83 and 86 respectively. I sum up the prediction probabilities of both model and applied argmax on the final result. So the test accuracy increased from 81.2 to 89.400
+Here i trained two pre trained model namely Xception and Resnet101v2 both has training accuracy of 83 and 86 respectively. I sum up the prediction probabilities of both model and applied argmax on the final result. So the test accuracy increased from 81.2 to 89.400
 
 # Final approach
